@@ -1,0 +1,6 @@
+{
+  "autoload": {
+    "psr-4": {"Wibble\\Wobble\\": "src_psr4/Wibble/Wobble"},
+    "classmap": [ "src_classmap" ]
+  }
+}
